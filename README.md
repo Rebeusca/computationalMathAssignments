@@ -11,6 +11,11 @@ Each activity is separated into `.m` files and includes a LaTeX report explainin
 - Question 01:
     - ✅ Solving linear systems with Gauss-Jordan;
     - ✅ Iterative solution of non-linear systems.
+
+- Question 02:
+    - ✅ Using the Jacobian method to solve a system with two variables;
+    - ✅ Gets the square root of a number iteratively.
+
 ## How to run locally:
 
 **You need to have installed:**

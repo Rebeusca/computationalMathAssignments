@@ -20,7 +20,7 @@ Each activity is separated into `.m` files and includes a LaTeX report explainin
 **Clone the repository:**
 
     git clone https://github.com/Rebeusca/computationalMathAssignments
-    cd computationalMathAssignments
+    cd computationalMathAssignments/wanted_directory
 
 **Run the functions you want**
 

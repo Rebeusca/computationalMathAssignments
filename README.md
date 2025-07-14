@@ -21,6 +21,11 @@ Each activity is separated into `.m` files and includes a LaTeX report explainin
     - ✅ Ensures continuity of function, first and second derivatives across subintervals;
     - ✅ Plots the interpolated spline along with original data points.
 
+- Question 04:
+    - ✅ Implements numerical integration using Simpson’s 1/3 and 3/8 rules;
+    - ✅ Compares absolute error against high-precision integrals for polynomial, trigonometric, and exponential functions;
+    - ✅ Plots error convergence in semilog scale for each method and function.
+
 ## How to run locally:
 
 **You need to have installed:**

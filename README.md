@@ -26,6 +26,11 @@ Each activity is separated into `.m` files and includes a LaTeX report explainin
     - ✅ Compares absolute error against high-precision integrals for polynomial, trigonometric, and exponential functions;
     - ✅ Plots error convergence in semilog scale for each method and function.
 
+- Question 05:
+    - ✅ Implements Gauss-Legendre quadrature for numerical integration;
+    - ✅ Approximates definite integrals using computed Legendre roots and weights;
+    - ✅ Compares numerical result with exact integral for validation.
+
 ## How to run locally:
 
 **You need to have installed:**

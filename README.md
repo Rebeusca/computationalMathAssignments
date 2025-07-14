@@ -16,6 +16,11 @@ Each activity is separated into `.m` files and includes a LaTeX report explainin
     - ✅ Using the Jacobian method to solve a system with two variables;
     - ✅ Gets the square root of a number iteratively.
 
+- Question 03:
+    - ✅ Constructs a clamped cubic spline interpolation with fixed derivatives at endpoints;
+    - ✅ Ensures continuity of function, first and second derivatives across subintervals;
+    - ✅ Plots the interpolated spline along with original data points.
+
 ## How to run locally:
 
 **You need to have installed:**

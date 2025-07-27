@@ -31,6 +31,12 @@ Each activity is separated into `.m` files and includes a LaTeX report explainin
     - ✅ Approximates definite integrals using computed Legendre roots and weights;
     - ✅ Compares numerical result with exact integral for validation.
 
+- Question 06:
+    - ✅ Applies linear programming techniques to solve real-world optimization problems;
+    - ✅ Minimizes transportation cost and maximizes production profit using the glpk function in Octave;
+    - ✅ Models and solves both logistics and resource allocation scenarios with proper constraints.
+
+
 ## How to run locally:
 
 **You need to have installed:**
